@@ -9,3 +9,4 @@ story test3 US1
 Issue commit IS1
 Issue Fixed IS1
 check commit IS1
+Test US2
