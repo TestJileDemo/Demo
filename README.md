@@ -10,3 +10,4 @@ Issue commit IS1
 Issue Fixed IS1
 check commit IS1
 Test US2
+Test US6
